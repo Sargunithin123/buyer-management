@@ -4,10 +4,10 @@
 ## Live Application
 
 Frontend Live URL:  
-
+https://buyer-management-7454fpndt-nithin-kumar-s-projects.vercel.app/
  
 Backend Live URL:  
- 
+https://buyer-management.onrender.com
 
 
 ## Demo Video
