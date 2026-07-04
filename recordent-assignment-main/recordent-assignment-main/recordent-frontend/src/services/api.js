@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API = axios.create({
 
-  baseURL: "https://buyer-management.onrender.com",
+  baseURL: "https://buyer-management.onrender.com/api",
 
 
 });
