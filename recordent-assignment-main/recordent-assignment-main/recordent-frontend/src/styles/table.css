@@ -1,0 +1,27 @@
+table {
+
+width: 80%;
+
+margin: auto;
+
+border-collapse: collapse;
+
+}
+
+
+th, td {
+
+padding: 10px;
+
+border: 1px solid #ccc;
+
+}
+
+
+th {
+
+background-color: #2f80ed;
+
+color: white;
+
+}
