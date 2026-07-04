@@ -4,6 +4,7 @@
 ## Live Application
 
 Frontend Live URL:  
+
  
 Backend Live URL:  
  
@@ -17,7 +18,7 @@ Watch full working demo here:
 
 ## GitHub Repository
 
- 
+https://github.com/Sargunithin123/buyer-management.git
 
 
 # Project Overview
